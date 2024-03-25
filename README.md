@@ -1,0 +1,1 @@
+# basic-fastAPI-inference-Yolov8
