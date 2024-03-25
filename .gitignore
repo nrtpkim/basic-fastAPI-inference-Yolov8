@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Compiled files
+*.o
+*.class
+
+# macOS
+.DS_Store
+
+# Others
+.cache/
+.pytest_cache/
+
+#
+*.jpg
+*.pt
